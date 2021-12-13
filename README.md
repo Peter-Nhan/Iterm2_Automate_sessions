@@ -5,3 +5,5 @@ One device per line, and Iterm2 will open a new tab for each and set badge text 
 
 Store both files in ~/Library/Application Support/iTerm2/Scripts on the Mac OS.
 To have multiple of these Automate session files - duplicate them update the csv file with new devices - makes sure you provide new names for both files (py and csv). Also update lines 16  of the py file with the new csv filename.
+
+More details available in a blog - https://peter-nhan.github.io/posts/Iterm2_automation/
